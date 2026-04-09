@@ -2,12 +2,17 @@
 The repository contains code related to the paper "Bridging ocean wave physics and deep learning: Physics-informed neural operators for nonlinear wavefield reconstruction in real-time" by Ehlers et al. (2025), which explores using PINOs to rapidly reconstruct wave fields from sparse measurement data without providing ground truth data for training.
 
 
-**DOI:** 
+**Paper DOI:** 
 
 [10.48550/arXiv.2508.03315](https://doi.org/10.48550/arXiv.2508.03315) preprint v1
 
 [https://doi.org/10.1063/5.0294655](https://doi.org/10.1063/5.0294655) published version
 
+**Data DOI:**
+
+[10.5281/zenodo.19473989](https://doi.org/10.5281/zenodo.19473989)
+
+After downloading, please place the dataset in the `data/` directory of this repository.
 
 
 **Key Features:**
